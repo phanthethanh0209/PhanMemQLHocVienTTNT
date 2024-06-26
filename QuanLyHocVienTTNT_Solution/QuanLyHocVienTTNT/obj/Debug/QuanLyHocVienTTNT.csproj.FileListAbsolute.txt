@@ -1,0 +1,768 @@
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNPM_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_1]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\[TUAN_1]_PROJECT_CNPM_NET\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\HK5\.NET\Đồ án\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_2]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_2]_PROJECT_CNET (1)\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDiemDanh.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET(1)\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+D:\HK5\.NET\Đồ án\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\HK5\.NET\Đồ án\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\Triss\Documents\Zalo Received Files\[GOPPPPP_TUAN_3]_PROJECT_CNET\[GOP_TUAN_3]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Phan Tran Minh Tam\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\[TUAN_4]_PROJECT_CNET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\Triss\Documents\Zalo Received Files\[TUAN_4]_PROJECT_CNET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.application
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.application
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\TestExport\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.application
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\1.Hoc Tap\BAI TAP\HOC KI V\ASP.NET\MAYBE_FINAL_CNPM\MAYBE_FINAL_CNPM\[TUAN_CUOI]_CNPM\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.application
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.application
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\1.Hoc Tap\TAI LIEU VA TIEU LUAN\HOC KI V\CNPM\NHOM2_QLHOCVIEN_TTNT\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.application
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.manifest
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.application
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe.manifest
+C:\Users\DELL\Downloads\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.application
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.application
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\HK5\.NET\Đồ án\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.application
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.application
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\C_NET\QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.application
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\1.Hoc Tap\TEST FINAL\TestCNNET\C_NET\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.manifest
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.application
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe.manifest
+C:\Users\DELL\Downloads\Nhom_DeTai_QuanLyHocVienTTNT\Nhom_DeTai_QuanLyHocVienTTNT\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.application
+C:\Users\Triss\Desktop\FINAL\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+C:\Users\Triss\Desktop\FINAL\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+C:\Users\Triss\Desktop\FINAL\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.config
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.pdb
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.application
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.exe
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\bin\Debug\QuanLyHocVienTTNT.pdb
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csprojResolveAssemblyReference.cache
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormChinh.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDangNhap.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDoiMK.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSDiemDanh.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDSLopHP.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormDS_GV.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHoaDon.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocTap.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormHocVien.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormKhuyenMai.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiem.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapDiemDanh.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapGV.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHV.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapHvVoLop.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapKhuyenMai.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormNhapLHP.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTaoBT.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormThongKe.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormTraCuu.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateGV.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateHV.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateKM.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormUpdateLHP.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.FormXoaHvRaLop.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.Properties.Resources.resources
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.csproj.GenerateResource.Cache
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.exe.manifest
+D:\GIthub\ĐỒ ÁN CNET\QuanLyHocVienTTNT_Solution\QuanLyHocVienTTNT\obj\Debug\QuanLyHocVienTTNT.application
