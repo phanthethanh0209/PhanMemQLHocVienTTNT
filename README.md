@@ -7,6 +7,6 @@
 #### Chức năng đảm nhiệm:
 - Thiết kế CSDL
 - Phân quyền, đăng nhập, đăng ký, đổi mật khẩu
-- Thêm hoá đơn
+- Xử lý thêm hoá đơn
 
 
