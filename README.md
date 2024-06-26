@@ -1,4 +1,4 @@
-# PhanMemQLHocVienTTNT
+# PhanMemQLHocVienTTNN
 #### Công nghệ sử dụng: .NET C#
 #### Thực hiện: Nhóm 4 thành viên
 #### Tổng quan tất cả chức năng:
