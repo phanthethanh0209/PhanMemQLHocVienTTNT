@@ -1,4 +1,4 @@
-# PhanMemQLHocVienTTNN
+# Phần mềm quản lý trung tâm ngoại ngữ
 #### Công nghệ sử dụng: ADO.NET
 #### Thực hiện: Nhóm 4 thành viên
 #### Tổng quan tất cả chức năng:
